@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning MERN
+Crafting full-stack magic with MERN
 
 
 ## 🌐 Socials:
